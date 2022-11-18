@@ -5,3 +5,5 @@ class Team:
 
     def _eq_(self, other):
         return self.name == other.name
+def is_legal_team(team):
+    pass
